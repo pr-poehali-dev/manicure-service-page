@@ -17,13 +17,13 @@ const Header = () => {
           {/* Navigation */}
           <nav className="hidden md:flex space-x-8">
             <a
-              href="#"
+              href="/"
               className="text-gray-700 hover:text-pink-600 transition-colors"
             >
               Главная
             </a>
             <a
-              href="#"
+              href="/services"
               className="text-gray-700 hover:text-pink-600 transition-colors"
             >
               Услуги
