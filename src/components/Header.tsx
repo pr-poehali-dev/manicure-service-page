@@ -29,25 +29,25 @@ const Header = () => {
               Услуги
             </a>
             <a
-              href="#"
+              href="/price-list"
               className="text-gray-700 hover:text-pink-600 transition-colors"
             >
               Прайс-лист
             </a>
             <a
-              href="#"
+              href="/promotions"
               className="text-gray-700 hover:text-pink-600 transition-colors"
             >
               Акции
             </a>
             <a
-              href="#"
+              href="/certificates"
               className="text-gray-700 hover:text-pink-600 transition-colors"
             >
               Сертификаты
             </a>
             <a
-              href="#"
+              href="/support"
               className="text-gray-700 hover:text-pink-600 transition-colors"
             >
               Поддержка
@@ -59,7 +59,7 @@ const Header = () => {
               Документы
             </a>
             <a
-              href="#"
+              href="/about"
               className="text-gray-700 hover:text-pink-600 transition-colors"
             >
               О нас
